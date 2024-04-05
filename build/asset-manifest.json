@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db48d893.css",
+    "main.js": "/static/js/main.fd046710.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/github-logo.png": "/static/media/github-logo.f4213b43f78faab2abec.png",
+    "static/media/space-mono-latin-400-normal.woff2": "/static/media/space-mono-latin-400-normal.e7409717e7e2fcddb691.woff2",
+    "static/media/space-mono-latin-ext-400-normal.woff2": "/static/media/space-mono-latin-ext-400-normal.d2d912f768aec7af94de.woff2",
+    "static/media/space-mono-latin-400-normal.woff": "/static/media/space-mono-latin-400-normal.a82c6fcec74458275463.woff",
+    "static/media/space-mono-latin-ext-400-normal.woff": "/static/media/space-mono-latin-ext-400-normal.68fe30fe5bc4c9c3bab7.woff",
+    "static/media/space-mono-vietnamese-400-normal.woff2": "/static/media/space-mono-vietnamese-400-normal.ff735bac362e5c02ca82.woff2",
+    "static/media/space-mono-vietnamese-400-normal.woff": "/static/media/space-mono-vietnamese-400-normal.aaf169d38dcaefadcfb2.woff",
+    "index.html": "/index.html",
+    "main.db48d893.css.map": "/static/css/main.db48d893.css.map",
+    "main.fd046710.js.map": "/static/js/main.fd046710.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db48d893.css",
+    "static/js/main.fd046710.js"
+  ]
+}
