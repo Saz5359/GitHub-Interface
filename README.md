@@ -1,4 +1,4 @@
-# GitHub Interface
+# GitHub Profiler
 
 This project is a full-stack web application that interfaces with the most popular VCS provider the GitHub API.
 
